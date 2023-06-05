@@ -24,7 +24,7 @@ contig 길이 최소값, chromosome 번호를 입력하여 해당하는 범위�
 GO.py의 결과 데이터를 바탕으로 연속되는 각각의 inversion 사이트들을 찾아주는 프로그램
 
 
-./find_by_id.py [path to Conserved.Segments].Conserved.Segments
+./split_inversion.py [path to Conserved.Segments].Conserved.Segments
 입력 : GO.py의 single contig data
 <img width="1013" alt="image" src="https://github.com/Polaroidd/Biomedical_Data_Analysis/assets/101031710/4e8366f3-919b-46a4-af02-dcff0f33dbd6">
 
