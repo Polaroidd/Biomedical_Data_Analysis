@@ -16,7 +16,7 @@ id로 Conserved.Segments에서 id를 검색해주는 프로그램
 3. seg_converter.py
 contig 길이 최소값, chromosome 번호를 입력하여 해당하는 범위의 데이터들만 보여주는 프로그램
 
-./find_by_id.py [path to Conserved.Segments].Conserved.Segments [min length of contig] [number of chromosome]
+./seg_converter.py [path to Conserved.Segments].Conserved.Segments [min length] [chromosome number]
 <img width="896" alt="image" src="https://github.com/Polaroidd/Biomedical_Data_Analysis/assets/101031710/cef18db0-cb9c-46da-9652-e436e049c52d">
 
 
